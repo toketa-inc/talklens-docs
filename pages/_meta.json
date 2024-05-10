@@ -1,0 +1,12 @@
+{
+  "index": "Introduction",
+  "API_Key": "API Key",
+  "SDK_integration_for_non_developer": "SDK Integration For Non-Developer",
+  "SDK_integration_for_developer": "SDK Integration For Developer",
+  "dashboard": "Dashboard",
+  "start": {
+    "title": "Start TalkLens ↗",
+    "type": "page",
+    "href": "https://www.talklens.ai"
+  }
+}
